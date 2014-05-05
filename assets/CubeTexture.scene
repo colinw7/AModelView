@@ -1,0 +1,20 @@
+Colors
+  red
+  green
+  blue
+  yellow
+End
+
+Textures
+  planet03.jpg
+End
+
+Object Cube1
+  Primitive Cube
+
+  Texture 1
+End
+
+Scene
+  Object Cube1
+End

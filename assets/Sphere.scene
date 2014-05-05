@@ -1,0 +1,23 @@
+Colors
+  red
+  green
+  blue
+  cyan
+  magenta
+  yellow
+End
+
+Object Sphere
+  Primitive Sphere
+
+  Transforms
+    Scale     1.0 1.0 1.0
+    Translate 0.0 0.0 0.0
+  End
+
+  Face_Color 1
+End
+
+Scene
+  Object Sphere
+End

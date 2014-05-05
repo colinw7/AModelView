@@ -1,0 +1,20 @@
+Textures
+  planet03.jpg
+End
+
+Object Sphere
+  Primitive Sphere
+
+  Texture 1
+
+  Transforms
+    Scale 1.0 1.0 1.0
+    Translate 0.0 0.0 0.0
+  End
+
+  Face_Color 1
+End
+
+Scene
+  Object Sphere
+End
